@@ -7,14 +7,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   
-  <artifactId>latihandulu-api-service-impl</artifactId>
+  <artifactId>latihandulu-api-rest-web-model</artifactId>
   <packaging>jar</packaging>
   
   <dependencies>
-  	<dependency>
-  		<groupId>com.indra.eka</groupId>
-  		<artifactId>latihandulu-api-service</artifactId>
-  		<version>${system-version}</version>
-  	</dependency>
   </dependencies>
 </project>
