@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.indra.eka</groupId>
-  <artifactId>latihandulu-api-model</artifactId>
+  <artifactId>latihandulu-api-dao</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20151011095735</lastUpdated>
+    <lastUpdated>20151011095746</lastUpdated>
   </versioning>
 </metadata>
