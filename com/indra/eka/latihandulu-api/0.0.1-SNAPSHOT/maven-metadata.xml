@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.indra.eka</groupId>
+  <artifactId>latihandulu-api</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151011.095654</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20151011095654</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20151011.095654-1</value>
+        <updated>20151011095654</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
