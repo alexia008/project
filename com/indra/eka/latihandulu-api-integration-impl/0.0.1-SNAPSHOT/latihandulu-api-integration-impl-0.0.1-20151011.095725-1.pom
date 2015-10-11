@@ -1,31 +1,25 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <modelVersion>4.0.0</modelVersion>
-
  <parent>
   <groupId>com.indra.eka</groupId>
   <artifactId>latihandulu-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  </parent>
 
- <artifactId>latihandulu-api-integration</artifactId>
+ <artifactId>latihandulu-api-integration-impl</artifactId>
  <packaging>jar</packaging>
 
  <dependencies>
   <dependency>
    <groupId>com.indra.eka</groupId>
-   <artifactId>latihandulu-api-vo</artifactId>
+   <artifactId>latihandulu-api-integration</artifactId>
    <version>${system-version}</version>
   </dependency>
   <dependency>
-   <groupId>com.mandrillapp.wrapper.lutung</groupId>
-   <artifactId>lutung</artifactId>
-   <version>0.0.5</version>
-  </dependency>
-  <dependency>
-   <groupId>com.rabbitmq</groupId>
-   <artifactId>amqp-client</artifactId>
-   <version>3.5.5</version>
+   <groupId>commons-logging</groupId>
+   <artifactId>commons-logging</artifactId>
+   <version>${commons-logging-version}</version>
   </dependency>
  </dependencies>
 </project>
